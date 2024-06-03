@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @ridhitbhura
-- 👀 I’m interested in machine learning & mapping storeis
+- 👀 I’m interested in machine learning & mapping stories
 - 📫 Reach me @[ridhitbhura.com](https://ridhitbhura.com) or rb749@cornell.edu 
 
 <!---
